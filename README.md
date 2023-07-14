@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Spatial DataScientist/Geomatic Engineer
 ---------------------------------------
 
-I more into mapping and focusing more into scripting, and GIS web development and more concern on environmental hazards and finding solutions
+I am more into mapping and focusing more on scripting, and GIS Web Development and more concerned on environmental hazards and finding solutions
 
 *   🌍  I'm based in Ghana
-*   🧠  I'm learning python,JavaScript,CSS,HTML,Postgis,PostgreSQL,Tableau,R,PowerBI,Machine Learning
-*   🤝  I'm open to collaborating on developing projects that will bring change to the environments and solve other societal issues
-*   ⚡  l am an environmental activists and have strong desire to change my community<a href="https://www.github.com/gimah" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/gimah?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+*   🧠  I'm learning Python, JavaScript, CSS, HTML, Postgis, PostgreSQL, Tableau, R, PowerBI, Machine Learning,Google Studio
+*   🤝  I'm open to collaborating on developing projects that will bring change to the environment and solve other societal issues
+*   ⚡  l am an environmental activist and have a strong desire to change my community<a href="https://www.github.com/gimah" target="_blank" rel="no-referrer">
+                  
 
 
             
