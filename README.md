@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cynthia Allan-Gyimah
 ============================================================================================================================================
 
-Spatial Data Scientist/ Aspiring Environmental Engineer/ Geomatic Engineer
+Geo_Spatial Data Scientist/Environmental Engineer/ Geomatic Engineer
 ---------------------------------------
 
 I am more into Spatial Data Science in Automation in ArcGIS Pro, mapping and focusing more on scripting and GIS Web Development and concerned with environmental hazards and finding solutions.
